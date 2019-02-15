@@ -1,5 +1,10 @@
 # DoggoneWasteland
 
+
+## Trailer
+[![Trailer](https://img.youtube.com/vi/ViqnHxvOL1Y/0.jpg)](https://www.youtube.com/watch?v=ViqnHxvOL1Y)
+
+
 ## Packages needed
 - pygame
 - xmltodict
@@ -12,8 +17,6 @@ use `pip install <packagename>` to install the packages
 
 Run 'python game.py'
 
-## Trailer video
-[Trailer](https://www.youtube.com/watch?v=ViqnHxvOL1Y)
 
 ## Sources used
 [Jukedeck](https://www.jukedeck.com/)  
